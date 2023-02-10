@@ -1,0 +1,5 @@
+# 1xx information
+# 2xx sucess
+# 3xx redirect
+# 4xx client error
+# 5xx server error
